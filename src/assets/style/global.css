@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width:100vw;
+  height:100vh;
+  overflow: hidden;
+}
+:root{
+    --bgColor:#333;
+    --startColor:#FAC4A8;
+    --endColor:#56BBF6;
+    --fontColor:#3B7DD6;
+    --messageBoxColor:#AFD3FF;
+    --fontColor_0:#FFC611;
+    --fontSize:16px;
+    --widthPixel:14.4px; 
+    --heightPixel:4.53px;
+}
